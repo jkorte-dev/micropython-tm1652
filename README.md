@@ -36,7 +36,7 @@ display = TM1652(uart)
 display.show_text("0123")
 ```
 
-See `tm1652_exmaple.py` for more.
+See `tm1652_exmaple.py` for more. E.g. there is experimental support for gpio tx instead of uart tx.
 
 ### Resources
 Compiled from the following resource:
